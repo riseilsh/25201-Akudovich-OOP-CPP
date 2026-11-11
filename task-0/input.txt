@@ -1,0 +1,22 @@
+The quick brown fox jumps over the lazy dog. The dog barks, the fox runs away!
+A journey of a thousand miles begins with a single step. The journey is long, but the step is small.
+Hello, world! Hello again, world; hello to everyone in the world.
+To be, or not to be: that is the question. The answer is not simple, and the question is not easy.
+
+Кот сидит на окне и смотрит на улицу. Кот любит молоко, а пёс любит косточку.
+Утро началось хорошо: солнце светило, птицы пели, и кот проснулся раньше всех.
+КОТ, кот, Кот, кОт - это всё одно и то же слово, а пёс и ПЁС тоже одно слово.
+Мы идём в школу, мы идём домой, мы идём в магазин. Мы всегда идём вместе!
+
+In 2026 we have 365 days, 52 weeks and 12 months. Year 2026 is a good year.
+Room 101, room 202, room 101 again. Call 112 or 911 in case of emergency.
+Test1 test2 test1 TEST1 test3 Test2: digits are part of the words.
+
+one two two three three three four four four four five five five five five
+раз два два три три три четыре четыре четыре четыре
+a-b-c a+b_a, a(b)c a b a; a a a a a.
+
+Программирование - это интересно. Программирование на C++ требует внимания, а внимание требует времени.
+Programming is fun. Programming in C++ requires attention, and attention requires time.
+Файл, строка, слово, число; файл, строка, слово, число; файл и строка.
+End of the file. Конец файла. The end!
